@@ -1,4 +1,4 @@
-# [Nextra](https://nextra.vercel.app)
+# [Now You Know Swift](https://nyks.co)
 
 _Warning: this project is not production ready, API might change without notice._
 
